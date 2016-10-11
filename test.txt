@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 w3cschool.cc
 w3cschool.cc
+=======
+www.w3cschool.cc
+>>>>>>> change_site
